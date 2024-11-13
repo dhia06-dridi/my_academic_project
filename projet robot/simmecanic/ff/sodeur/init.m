@@ -1,0 +1,11 @@
+ModelName = 'soudeur';
+ set_param('soudeur/Slider Gain5', 'Gain', '-180');
+pause(1);
+set_param('soudeur/Slider Gain', 'Gain', '75');
+pause(1);
+set_param('soudeur/Slider Gain11', 'Gain', '180');
+pause(1);
+set_param('soudeur/Slider Gain1', 'Gain', '-50');
+pause(1);
+set_param('soudeur/Slider Gain8', 'Gain', '100');
+pause(1);
